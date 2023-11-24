@@ -19,3 +19,16 @@
 </div>
 
 ---
+### My contacts:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+      <img src="https://amonitoring.ru/upload/iblock/10a/10a180c6168f4bb69cc222f074a2191e.svg" width="40" height="40" alt="Habr" />
+    </a>
+    <a href="https://t.me/artsiom_qa" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg" width="40" height="40" alt="post" />
+    </a>
+    <a href="https://t.me/lavansk" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="40" height="40" alt="tg" />
+    </a>
+  </div>
