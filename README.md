@@ -14,7 +14,7 @@
   <img src="https://github.com/IvanaLavansk/IvanaLavansk/assets/125771186/efc295c2-1766-4193-bc4a-4ef04d932620" title="Java" alt="Java" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/480px-IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353831/gradle.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp
 </div>
 
