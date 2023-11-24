@@ -12,7 +12,7 @@
 
 <div>
   <img src="https://github.com/IvanaLavansk/IvanaLavansk/assets/125771186/efc295c2-1766-4193-bc4a-4ef04d932620" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/445786/github.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
