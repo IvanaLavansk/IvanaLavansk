@@ -11,8 +11,9 @@
 ### Working with Code:
 
 <div>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg](https://logowik.com/content/uploads/images/731_java.svq](https://cdn-icons-png.flaticon.com/512/154/154878.svg)" title="Java" alt="Java" width="40" height="40"/>&nbsp
+  <img src="https://github.com/IvanaLavansk/IvanaLavansk/assets/125771186/efc295c2-1766-4193-bc4a-4ef04d932620" title="Java" alt="Java" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsptitle="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
+
+---
