@@ -1,4 +1,7 @@
 # QA Java ☕
+---
+## Привет, меня зовут Ивана. Я работаю тестировщиком год, но интересуюсь тестированием больше 2 лет. Активно развиваю свои скилы в  програмировании на Java (в том числе напсиание автотестов). Люблю все, что связано с веб-сайтами и их архитектурой. 
+
 
 ### Working with test documentation:
 
@@ -22,10 +25,10 @@
 ### My contacts:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://career.habr.com/ivanalavansk" target="_blank">
       <img src="https://amonitoring.ru/upload/iblock/10a/10a180c6168f4bb69cc222f074a2191e.svg" width="40" height="40" alt="Habr" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="yantrai@mail.ru" target="_blank">
       <img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/mailru-512.png" width="40" height="40" alt="post" />
     </a>
     <a href="https://t.me/lavansk" target="_blank">
